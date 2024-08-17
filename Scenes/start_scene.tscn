@@ -1,0 +1,53 @@
+[gd_scene load_steps=2 format=3 uid="uid://be0ikyak3qc8n"]
+
+[ext_resource type="Script" path="res://Scripts/start_scene.gd" id="1_v3uqg"]
+
+[node name="StartScene" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_v3uqg")
+
+[node name="VFlowContainer" type="VFlowContainer" parent="."]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 1
+anchors_preset = 13
+anchor_left = 0.5
+anchor_right = 0.5
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="VFlowContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 6
+text = "GMTK2024 BTS"
+
+[node name="VFlowContainer" type="VFlowContainer" parent="VFlowContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="ButtonTeam" type="Button" parent="VFlowContainer/VFlowContainer"]
+custom_minimum_size = Vector2(100, 0)
+layout_mode = 2
+text = "Team Builder"
+
+[node name="ButtonQuickPlay" type="Button" parent="VFlowContainer/VFlowContainer"]
+layout_mode = 2
+text = "Quick play"
+
+[node name="ButtonVersus" type="Button" parent="VFlowContainer/VFlowContainer"]
+layout_mode = 2
+text = "Versus Mode"
+
+[node name="ButtonOption" type="Button" parent="VFlowContainer/VFlowContainer"]
+layout_mode = 2
+text = "Option"
+
+[node name="ButtonQuit" type="Button" parent="VFlowContainer/VFlowContainer"]
+layout_mode = 2
+text = "Quit"
