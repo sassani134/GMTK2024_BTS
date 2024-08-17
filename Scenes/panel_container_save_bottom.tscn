@@ -1,0 +1,31 @@
+[gd_scene format=3 uid="uid://brmvud86ytg16"]
+
+[node name="PanelContainerSaveBottom" type="PanelContainer"]
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 2
+
+[node name="TextEdit" type="TextEdit" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+placeholder_text = "Name of TeamBuld data"
+
+[node name="ButtonSave" type="Button" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Save"
+
+[node name="ButtonLoad" type="Button" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Load"
+
+[node name="ButtonReturn" type="Button" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
