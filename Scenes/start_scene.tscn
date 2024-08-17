@@ -51,3 +51,9 @@ text = "Option"
 [node name="ButtonQuit" type="Button" parent="VFlowContainer/VFlowContainer"]
 layout_mode = 2
 text = "Quit"
+
+[connection signal="pressed" from="VFlowContainer/VFlowContainer/ButtonTeam" to="." method="_on_button_team_pressed"]
+[connection signal="pressed" from="VFlowContainer/VFlowContainer/ButtonQuickPlay" to="." method="_on_button_quick_play_pressed"]
+[connection signal="pressed" from="VFlowContainer/VFlowContainer/ButtonVersus" to="." method="_on_button_versus_pressed"]
+[connection signal="pressed" from="VFlowContainer/VFlowContainer/ButtonOption" to="." method="_on_button_option_pressed"]
+[connection signal="pressed" from="VFlowContainer/VFlowContainer/ButtonQuit" to="." method="_on_button_quit_pressed"]
