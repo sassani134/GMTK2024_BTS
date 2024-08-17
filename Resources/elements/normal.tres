@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="element" load_steps=2 format=3 uid="uid://csikuu4g3lnio"]
+
+[ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_f6fes"]
+
+[resource]
+script = ExtResource("1_f6fes")
+name = ""
+weakTo = Array[ExtResource("1_f6fes")]([])
+effectiveTo = Array[ExtResource("1_f6fes")]([])

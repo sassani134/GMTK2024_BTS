@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="element" load_steps=2 format=3 uid="uid://d7qri6iwpttk"]
+
+[ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_iqiv6"]
+
+[resource]
+script = ExtResource("1_iqiv6")
+name = "Fire"
