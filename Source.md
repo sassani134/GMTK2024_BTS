@@ -1,0 +1,4 @@
+- https://www.gotut.net/resource-system-in-godot-4/
+- https://youtu.be/-zf7b7x4Oww
+- https://www.youtube.com/watch?v=KM9AEDaZgu4
+- https://youtu.be/RMdf60IAxY0
