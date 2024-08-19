@@ -23,10 +23,5 @@ func _ready() -> void:
 	var characters : Array[String] = get_all_file_paths("res://Resources/characters/")
 	print_debug(characters)
 	
-	for a in characters:
-		add_item(a)
-
-
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta: float) -> void:
-	pass
+	for c in characters:
+		add_item(c)
