@@ -1,7 +1,8 @@
 extends Control
 
 func _on_button_team_pressed() -> void:
-	pass # Replace with function body.
+	SceneSwitcher.switch_scene("res://Scenes/team_build_scene.tscn")
+
 
 
 func _on_button_quick_play_pressed() -> void:
