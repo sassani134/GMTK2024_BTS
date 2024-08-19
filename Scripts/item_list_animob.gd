@@ -1,4 +1,4 @@
-#@tool
+@tool
 extends ItemList
 
 #"res://Resources/aniMobs/"
@@ -25,8 +25,3 @@ func _ready() -> void:
 	
 	for a in animobs:
 		add_item(a)
-
-
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta: float) -> void:
-	pass
