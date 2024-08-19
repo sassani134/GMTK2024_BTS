@@ -20,10 +20,10 @@ func get_all_file_paths(path: String) -> Array[String]:
 
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
-	var animobs : Array[String] = get_all_file_paths("res://Resources/aniMobs/")
-	print_debug(animobs)
+	var characters : Array[String] = get_all_file_paths("res://Resources/characters/")
+	print_debug(characters)
 	
-	for a in animobs:
+	for a in characters:
 		add_item(a)
 
 
