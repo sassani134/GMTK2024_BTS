@@ -29,3 +29,4 @@ text = "Load"
 [node name="ButtonReturn" type="Button" parent="HBoxContainer"]
 layout_mode = 2
 size_flags_horizontal = 3
+text = "Return"
