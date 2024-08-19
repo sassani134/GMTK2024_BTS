@@ -1,15 +1,17 @@
-[gd_resource type="Resource" script_class="Animob" load_steps=4 format=3 uid="uid://ccgi3guchrpwr"]
+[gd_resource type="Resource" script_class="Animob" load_steps=6 format=3 uid="uid://ccgi3guchrpwr"]
 
 [ext_resource type="Script" path="res://Scripts/move_res.gd" id="1_ap42k"]
+[ext_resource type="Resource" uid="uid://d0tt3dn8mymrq" path="res://Resources/elements/fighting.tres" id="2_4jj1m"]
 [ext_resource type="Script" path="res://Scripts/animob_res.gd" id="2_k76hh"]
+[ext_resource type="Resource" uid="uid://ckx0qvvaivh4i" path="res://Resources/elements/fly.tres" id="3_igth3"]
 [ext_resource type="Script" path="res://Scripts/element_res.gd" id="3_sdv3l"]
 
 [resource]
 script = ExtResource("2_k76hh")
-name = ""
-type0 = Array[ExtResource("3_sdv3l")]([])
-type1 = Array[ExtResource("3_sdv3l")]([])
-hp = 0
+name = "blowolf"
+aniMobtypes = Array[ExtResource("3_sdv3l")]([ExtResource("2_4jj1m"), ExtResource("3_igth3")])
+learnMoves = Array[ExtResource("1_ap42k")]([])
+hp = 10
 atk = 0
 def = 0
 pm = 3
