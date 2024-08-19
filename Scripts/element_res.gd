@@ -4,5 +4,12 @@ class_name element extends Resource
 @export var name: String
 @export var pic: Texture
 
+@export_category("Offensive Effectiveness")
+@export var weakAgainst: Array[element]
+@export var strongAgainst: Array[element]
+@export var noEffect: Array[element]
+
+@export_category("Defensive Effectiveness")
+@export var immuneTo: Array[element]
+@export var ressistTo: Array[element]
 @export var weakTo: Array[element]
-@export var effectiveTo: Array[element]
