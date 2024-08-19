@@ -2,15 +2,18 @@ class_name Animob extends Resource
 
 @export_category("id")
 @export var name: String
-@export var type0: Array[element]
-@export var type1: Array[element]
+@export var aniMobtypes: Array[element]
 @export var pic: Texture
+@export var learnMoves: Array[move]
 
 @export_category("stats")
-@export var hp: int
-@export var atk: int
-@export var def: int
+@export var hp: int = 10
+@export var atk: int = 1
+@export var def: int = 1
 @export var pm: int = 3
+# Add a getset were the set:
+# Lock the array at 4
+# Lock the array to match learnMoves
 @export var moves: Array[move]
 @export var evasion: int = 1
 @export var accuracy: int = 100

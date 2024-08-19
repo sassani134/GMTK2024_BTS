@@ -3,11 +3,11 @@ class_name move extends Resource
 @export_category("id")
 @export var name: String
 @export var pic: Texture
-@export var type0: Array[element]
+@export var moveType: Array[element]
 
 
 @export_category("stats")
-@export var power: int
+@export var power: int = 1
 @export var acc: int = 100
 @export var pp: int = 10
 @export_category("range stats")
