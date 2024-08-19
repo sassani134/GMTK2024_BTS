@@ -1,9 +1,17 @@
-[gd_resource type="Resource" script_class="element" load_steps=2 format=3 uid="uid://csikuu4g3lnio"]
+[gd_resource type="Resource" script_class="element" load_steps=6 format=3 uid="uid://csikuu4g3lnio"]
 
 [ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_f6fes"]
+[ext_resource type="Resource" uid="uid://cjlsstoe4if4v" path="res://Resources/elements/ghost.tres" id="2_hrtqq"]
+[ext_resource type="Resource" uid="uid://cdkscgwhqc4fx" path="res://Resources/elements/rock.tres" id="3_07yx1"]
+[ext_resource type="Resource" uid="uid://bvlktqce58tod" path="res://Resources/elements/steel.tres" id="4_v6qhk"]
+[ext_resource type="Resource" uid="uid://d0tt3dn8mymrq" path="res://Resources/elements/fighting.tres" id="5_jewdj"]
 
 [resource]
 script = ExtResource("1_f6fes")
-name = ""
-weakTo = Array[ExtResource("1_f6fes")]([])
-effectiveTo = Array[ExtResource("1_f6fes")]([])
+name = "normal"
+weakAgainst = Array[ExtResource("1_f6fes")]([ExtResource("3_07yx1"), ExtResource("4_v6qhk")])
+strongAgainst = Array[ExtResource("1_f6fes")]([])
+noEffect = Array[ExtResource("1_f6fes")]([ExtResource("2_hrtqq")])
+immuneTo = Array[ExtResource("1_f6fes")]([ExtResource("2_hrtqq")])
+ressistTo = Array[ExtResource("1_f6fes")]([])
+weakTo = Array[ExtResource("1_f6fes")]([ExtResource("5_jewdj")])

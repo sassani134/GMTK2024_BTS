@@ -1,0 +1,23 @@
+[gd_resource type="Resource" script_class="element" load_steps=12 format=3 uid="uid://bko7n2xx3pkxo"]
+
+[ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_nfdgg"]
+[ext_resource type="Resource" uid="uid://mb1uxloivj3j" path="res://Resources/elements/electric.tres" id="2_4cl7t"]
+[ext_resource type="Resource" uid="uid://ckx0qvvaivh4i" path="res://Resources/elements/fly.tres" id="3_8kap6"]
+[ext_resource type="Resource" uid="uid://bmpyaemi48ksg" path="res://Resources/elements/poison.tres" id="4_601bv"]
+[ext_resource type="Resource" uid="uid://cdkscgwhqc4fx" path="res://Resources/elements/rock.tres" id="5_x5rux"]
+[ext_resource type="Resource" uid="uid://d7qri6iwpttk" path="res://Resources/elements/fire.tres" id="6_sou7j"]
+[ext_resource type="Resource" uid="uid://bvlktqce58tod" path="res://Resources/elements/steel.tres" id="7_6n7sw"]
+[ext_resource type="Resource" uid="uid://dd4v3n2tk7x0f" path="res://Resources/elements/bug.tres" id="8_h2i8t"]
+[ext_resource type="Resource" uid="uid://bv0n1dkdkbxu4" path="res://Resources/elements/grass.tres" id="9_d1h88"]
+[ext_resource type="Resource" uid="uid://y1y5kl3ichtb" path="res://Resources/elements/ice.tres" id="10_o3s8i"]
+[ext_resource type="Resource" uid="uid://gqnkboiumwe8" path="res://Resources/elements/water.tres" id="11_o6cef"]
+
+[resource]
+script = ExtResource("1_nfdgg")
+name = "ground"
+weakAgainst = Array[ExtResource("1_nfdgg")]([ExtResource("8_h2i8t"), ExtResource("9_d1h88")])
+strongAgainst = Array[ExtResource("1_nfdgg")]([ExtResource("2_4cl7t"), ExtResource("6_sou7j"), ExtResource("4_601bv"), ExtResource("5_x5rux"), ExtResource("7_6n7sw")])
+noEffect = Array[ExtResource("1_nfdgg")]([ExtResource("3_8kap6")])
+immuneTo = Array[ExtResource("1_nfdgg")]([ExtResource("2_4cl7t")])
+ressistTo = Array[ExtResource("1_nfdgg")]([ExtResource("4_601bv"), ExtResource("5_x5rux")])
+weakTo = Array[ExtResource("1_nfdgg")]([ExtResource("9_d1h88"), ExtResource("10_o3s8i"), ExtResource("11_o6cef")])

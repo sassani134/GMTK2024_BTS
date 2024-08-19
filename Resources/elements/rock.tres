@@ -1,0 +1,24 @@
+[gd_resource type="Resource" script_class="element" load_steps=13 format=3 uid="uid://cdkscgwhqc4fx"]
+
+[ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_17lcb"]
+[ext_resource type="Resource" uid="uid://d7qri6iwpttk" path="res://Resources/elements/fire.tres" id="2_jhui1"]
+[ext_resource type="Resource" uid="uid://ckx0qvvaivh4i" path="res://Resources/elements/fly.tres" id="3_gv2b1"]
+[ext_resource type="Resource" uid="uid://csikuu4g3lnio" path="res://Resources/elements/normal.tres" id="4_g51i6"]
+[ext_resource type="Resource" uid="uid://bmpyaemi48ksg" path="res://Resources/elements/poison.tres" id="5_b6cjx"]
+[ext_resource type="Resource" uid="uid://dd4v3n2tk7x0f" path="res://Resources/elements/bug.tres" id="6_fbgmc"]
+[ext_resource type="Resource" uid="uid://y1y5kl3ichtb" path="res://Resources/elements/ice.tres" id="7_0v85g"]
+[ext_resource type="Resource" uid="uid://d0tt3dn8mymrq" path="res://Resources/elements/fighting.tres" id="8_c387c"]
+[ext_resource type="Resource" uid="uid://bko7n2xx3pkxo" path="res://Resources/elements/ground.tres" id="9_b4gei"]
+[ext_resource type="Resource" uid="uid://bvlktqce58tod" path="res://Resources/elements/steel.tres" id="10_qh784"]
+[ext_resource type="Resource" uid="uid://bv0n1dkdkbxu4" path="res://Resources/elements/grass.tres" id="11_m160f"]
+[ext_resource type="Resource" uid="uid://gqnkboiumwe8" path="res://Resources/elements/water.tres" id="12_byv1g"]
+
+[resource]
+script = ExtResource("1_17lcb")
+name = "rock"
+weakAgainst = Array[ExtResource("1_17lcb")]([ExtResource("8_c387c"), ExtResource("9_b4gei"), ExtResource("10_qh784")])
+strongAgainst = Array[ExtResource("1_17lcb")]([ExtResource("6_fbgmc"), ExtResource("2_jhui1"), ExtResource("3_gv2b1"), ExtResource("7_0v85g")])
+noEffect = Array[ExtResource("1_17lcb")]([])
+immuneTo = Array[ExtResource("1_17lcb")]([])
+ressistTo = Array[ExtResource("1_17lcb")]([ExtResource("2_jhui1"), ExtResource("3_gv2b1"), ExtResource("4_g51i6"), ExtResource("5_b6cjx")])
+weakTo = Array[ExtResource("1_17lcb")]([ExtResource("8_c387c"), ExtResource("11_m160f"), ExtResource("9_b4gei"), ExtResource("10_qh784"), ExtResource("12_byv1g")])

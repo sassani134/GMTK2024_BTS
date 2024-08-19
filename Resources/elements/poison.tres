@@ -1,0 +1,22 @@
+[gd_resource type="Resource" script_class="element" load_steps=11 format=3 uid="uid://bmpyaemi48ksg"]
+
+[ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_pu6uu"]
+[ext_resource type="Resource" uid="uid://bvlktqce58tod" path="res://Resources/elements/steel.tres" id="2_kqti4"]
+[ext_resource type="Resource" uid="uid://wnb67pdq6n3n" path="res://Resources/elements/fairy.tres" id="3_btfv3"]
+[ext_resource type="Resource" uid="uid://dd4v3n2tk7x0f" path="res://Resources/elements/bug.tres" id="3_trv16"]
+[ext_resource type="Resource" uid="uid://bv0n1dkdkbxu4" path="res://Resources/elements/grass.tres" id="4_kl60i"]
+[ext_resource type="Resource" uid="uid://cjlsstoe4if4v" path="res://Resources/elements/ghost.tres" id="5_3vyho"]
+[ext_resource type="Resource" uid="uid://d0tt3dn8mymrq" path="res://Resources/elements/fighting.tres" id="5_adbco"]
+[ext_resource type="Resource" uid="uid://bko7n2xx3pkxo" path="res://Resources/elements/ground.tres" id="6_8mux7"]
+[ext_resource type="Resource" uid="uid://cdkscgwhqc4fx" path="res://Resources/elements/rock.tres" id="7_r7s80"]
+[ext_resource type="Resource" uid="uid://bh18wq505t17l" path="res://Resources/elements/psychic.tres" id="10_p4f0v"]
+
+[resource]
+script = ExtResource("1_pu6uu")
+name = "poison"
+weakAgainst = Array[ExtResource("1_pu6uu")]([ExtResource("5_3vyho"), ExtResource("6_8mux7"), null, ExtResource("7_r7s80")])
+strongAgainst = Array[ExtResource("1_pu6uu")]([ExtResource("3_btfv3"), ExtResource("4_kl60i")])
+noEffect = Array[ExtResource("1_pu6uu")]([ExtResource("2_kqti4")])
+immuneTo = Array[ExtResource("1_pu6uu")]([])
+ressistTo = Array[ExtResource("1_pu6uu")]([ExtResource("3_trv16"), ExtResource("3_btfv3"), ExtResource("5_adbco"), ExtResource("4_kl60i"), null])
+weakTo = Array[ExtResource("1_pu6uu")]([ExtResource("6_8mux7"), ExtResource("10_p4f0v")])

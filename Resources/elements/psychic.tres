@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="element" load_steps=8 format=3 uid="uid://bh18wq505t17l"]
+
+[ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_anwg5"]
+[ext_resource type="Resource" uid="uid://dnq2dpt8w4aav" path="res://Resources/elements/dark.tres" id="2_5l5w3"]
+[ext_resource type="Resource" uid="uid://d0tt3dn8mymrq" path="res://Resources/elements/fighting.tres" id="3_mtl2i"]
+[ext_resource type="Resource" uid="uid://bmpyaemi48ksg" path="res://Resources/elements/poison.tres" id="4_ioj22"]
+[ext_resource type="Resource" uid="uid://bvlktqce58tod" path="res://Resources/elements/steel.tres" id="5_b3bpr"]
+[ext_resource type="Resource" uid="uid://dd4v3n2tk7x0f" path="res://Resources/elements/bug.tres" id="6_6aod3"]
+[ext_resource type="Resource" uid="uid://cjlsstoe4if4v" path="res://Resources/elements/ghost.tres" id="7_rri72"]
+
+[resource]
+script = ExtResource("1_anwg5")
+name = "psychic"
+weakAgainst = Array[ExtResource("1_anwg5")]([null, ExtResource("5_b3bpr")])
+strongAgainst = Array[ExtResource("1_anwg5")]([ExtResource("3_mtl2i"), ExtResource("4_ioj22")])
+noEffect = Array[ExtResource("1_anwg5")]([ExtResource("2_5l5w3")])
+immuneTo = Array[ExtResource("1_anwg5")]([])
+ressistTo = Array[ExtResource("1_anwg5")]([ExtResource("3_mtl2i"), null])
+weakTo = Array[ExtResource("1_anwg5")]([ExtResource("6_6aod3"), ExtResource("2_5l5w3"), ExtResource("7_rri72")])

@@ -1,0 +1,24 @@
+[gd_resource type="Resource" script_class="element" load_steps=13 format=3 uid="uid://d0tt3dn8mymrq"]
+
+[ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_50c0n"]
+[ext_resource type="Resource" uid="uid://cjlsstoe4if4v" path="res://Resources/elements/ghost.tres" id="2_htjjm"]
+[ext_resource type="Resource" uid="uid://dd4v3n2tk7x0f" path="res://Resources/elements/bug.tres" id="3_raphs"]
+[ext_resource type="Resource" uid="uid://dnq2dpt8w4aav" path="res://Resources/elements/dark.tres" id="4_a8iec"]
+[ext_resource type="Resource" uid="uid://cdkscgwhqc4fx" path="res://Resources/elements/rock.tres" id="5_cths8"]
+[ext_resource type="Resource" uid="uid://y1y5kl3ichtb" path="res://Resources/elements/ice.tres" id="6_fftip"]
+[ext_resource type="Resource" uid="uid://csikuu4g3lnio" path="res://Resources/elements/normal.tres" id="7_yfkqk"]
+[ext_resource type="Resource" uid="uid://bvlktqce58tod" path="res://Resources/elements/steel.tres" id="8_o027e"]
+[ext_resource type="Resource" uid="uid://wnb67pdq6n3n" path="res://Resources/elements/fairy.tres" id="9_m6oxk"]
+[ext_resource type="Resource" uid="uid://ckx0qvvaivh4i" path="res://Resources/elements/fly.tres" id="10_yh4ia"]
+[ext_resource type="Resource" uid="uid://bmpyaemi48ksg" path="res://Resources/elements/poison.tres" id="11_8cssk"]
+[ext_resource type="Resource" uid="uid://bh18wq505t17l" path="res://Resources/elements/psychic.tres" id="12_wclce"]
+
+[resource]
+script = ExtResource("1_50c0n")
+name = "fighting"
+weakAgainst = Array[ExtResource("1_50c0n")]([ExtResource("3_raphs"), ExtResource("9_m6oxk"), ExtResource("10_yh4ia"), ExtResource("11_8cssk"), ExtResource("12_wclce")])
+strongAgainst = Array[ExtResource("1_50c0n")]([ExtResource("4_a8iec"), ExtResource("6_fftip"), ExtResource("7_yfkqk"), ExtResource("5_cths8"), ExtResource("8_o027e")])
+noEffect = Array[ExtResource("1_50c0n")]([ExtResource("2_htjjm")])
+immuneTo = Array[ExtResource("1_50c0n")]([])
+ressistTo = Array[ExtResource("1_50c0n")]([ExtResource("3_raphs"), ExtResource("4_a8iec"), ExtResource("5_cths8")])
+weakTo = Array[ExtResource("1_50c0n")]([ExtResource("9_m6oxk"), ExtResource("10_yh4ia"), ExtResource("12_wclce")])
