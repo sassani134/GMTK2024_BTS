@@ -1,0 +1,23 @@
+[gd_resource type="Resource" script_class="Animob" load_steps=4 format=3 uid="uid://drspl4a3entpl"]
+
+[ext_resource type="Script" path="res://Scripts/move_res.gd" id="1_i1xfu"]
+[ext_resource type="Script" path="res://Scripts/animob_res.gd" id="2_0o5oh"]
+[ext_resource type="Script" path="res://Scripts/element_res.gd" id="3_af7ie"]
+
+[resource]
+script = ExtResource("2_0o5oh")
+name = "pouleMouille"
+type0 = Array[ExtResource("3_af7ie")]([])
+type1 = Array[ExtResource("3_af7ie")]([])
+hp = 0
+atk = 0
+def = 0
+pm = 3
+moves = Array[ExtResource("1_i1xfu")]([])
+evasion = 1
+accuracy = 100
+crit = 1
+tackle = 0
+escape = 0
+size = 1
+scale = 1

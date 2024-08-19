@@ -1,0 +1,23 @@
+[gd_resource type="Resource" script_class="Animob" load_steps=4 format=3 uid="uid://ccgi3guchrpwr"]
+
+[ext_resource type="Script" path="res://Scripts/move_res.gd" id="1_ap42k"]
+[ext_resource type="Script" path="res://Scripts/animob_res.gd" id="2_k76hh"]
+[ext_resource type="Script" path="res://Scripts/element_res.gd" id="3_sdv3l"]
+
+[resource]
+script = ExtResource("2_k76hh")
+name = ""
+type0 = Array[ExtResource("3_sdv3l")]([])
+type1 = Array[ExtResource("3_sdv3l")]([])
+hp = 0
+atk = 0
+def = 0
+pm = 3
+moves = Array[ExtResource("1_ap42k")]([])
+evasion = 1
+accuracy = 100
+crit = 1
+tackle = 0
+escape = 0
+size = 1
+scale = 1
