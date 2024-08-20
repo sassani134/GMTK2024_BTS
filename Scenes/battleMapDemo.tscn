@@ -1,0 +1,39 @@
+[gd_scene load_steps=7 format=3 uid="uid://bf37cac16tdhx"]
+
+[ext_resource type="Texture2D" uid="uid://b7xgjp62eqci8" path="res://Assets/elementsTiles.png" id="1_ucufu"]
+[ext_resource type="Texture2D" uid="uid://dhsg8tcxm5x14" path="res://Assets/tileSelected.png" id="2_qrukx"]
+[ext_resource type="Script" path="res://Scripts/tile_map_demo.gd" id="3_liu2d"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_c7bn3"]
+texture = ExtResource("1_ucufu")
+texture_region_size = Vector2i(64, 64)
+0:0/0 = 0
+1:0/0 = 0
+2:0/0 = 0
+0:1/0 = 0
+1:1/0 = 0
+2:1/0 = 0
+0:2/0 = 0
+1:2/0 = 0
+2:2/0 = 0
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_a24av"]
+texture = ExtResource("2_qrukx")
+texture_region_size = Vector2i(64, 64)
+0:0/0 = 0
+
+[sub_resource type="TileSet" id="TileSet_7ysl3"]
+tile_size = Vector2i(64, 64)
+sources/0 = SubResource("TileSetAtlasSource_c7bn3")
+sources/1 = SubResource("TileSetAtlasSource_a24av")
+
+[node name="BattleMapDemo" type="Node2D"]
+
+[node name="TileMapDemo" type="TileMap" parent="."]
+tile_set = SubResource("TileSet_7ysl3")
+format = 2
+layer_1/name = "Layer1"
+script = ExtResource("3_liu2d")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+enabled = false
