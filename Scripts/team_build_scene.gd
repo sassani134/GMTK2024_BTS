@@ -9,3 +9,12 @@ func _ready() -> void:
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
 	pass
+
+
+func _on_item_list_character_item_selected(index: int) -> void:
+	print("Character: ",index)
+	pass # Replace with function body.
+
+
+func _on_item_list_animob_item_selected(index: int) -> void:
+	print("animob: ",index)
