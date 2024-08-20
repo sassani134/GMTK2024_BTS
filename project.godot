@@ -18,3 +18,7 @@ config/icon="res://Assets/icon.svg"
 [autoload]
 
 SceneSwitcher="*res://Scripts/scene_switcher.gd"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/wakatime/plugin.cfg")
