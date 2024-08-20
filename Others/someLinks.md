@@ -1,0 +1,8 @@
+- https://9gag.com/gag/a5X0bpg
+- https://9gag.com/gag/ae9K69B
+- https://9gag.com/gag/adB6KbM
+- https://9gag.com/gag/azxLveK
+- https://9gag.com/gag/a7oK4Kx
+- https://9gag.com/gag/a9qxWp1
+- https://9gag.com/gag/a2KXWxw
+- https://9gag.com/gag/aMEErEA
