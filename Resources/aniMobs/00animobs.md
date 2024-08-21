@@ -1,0 +1,13 @@
+akQuarantesnake
+blowWolf
+ddPig
+dendeLeo
+dokomo
+fractalSeaStar
+kobraRoyal
+lavaPlum
+pollenRat
+pouleMouille
+pupSnail
+squreuil
+xutXut
