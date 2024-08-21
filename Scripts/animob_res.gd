@@ -2,7 +2,9 @@ class_name Animob extends Resource
 
 @export_category("id")
 @export var name: String
-@export var aniMobtypes: Array[element]
+# setget Array 2 elements
+# elements cannot be the same
+@export var aniMobElements: Array[element]
 @export var pic: Texture
 @export var learnMoves: Array[move]
 

@@ -10,6 +10,6 @@ class_name element extends Resource
 @export var noEffect: Array[element]
 
 @export_category("Defensive Effectiveness")
-@export var immuneTo: Array[element]
-@export var ressistTo: Array[element]
 @export var weakTo: Array[element]
+@export var ressistTo: Array[element]
+@export var immuneTo: Array[element]

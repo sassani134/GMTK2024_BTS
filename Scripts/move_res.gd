@@ -3,7 +3,7 @@ class_name move extends Resource
 @export_category("id")
 @export var name: String
 @export var pic: Texture
-@export var moveType: Array[element]
+@export var moveElement: element
 
 
 @export_category("stats")
