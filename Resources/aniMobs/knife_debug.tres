@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="Animob" load_steps=7 format=3 uid="uid://bhp8m865kb2j5"]
+
+[ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_00aks"]
+[ext_resource type="Script" path="res://Scripts/move_res.gd" id="2_5ry4j"]
+[ext_resource type="Resource" uid="uid://1jpobcp4dwjn" path="res://Resources/elements/scissors_debug.tres" id="2_gg885"]
+[ext_resource type="Texture2D" uid="uid://8k3m206tmadd" path="res://Assets/knife_debug.jpg" id="3_aymqu"]
+[ext_resource type="Script" path="res://Scripts/animob_res.gd" id="3_ke4nx"]
+[ext_resource type="Resource" uid="uid://c233d43j8bsti" path="res://Resources/moves/scissors_att_debug.tres" id="4_lj0dm"]
+
+[resource]
+script = ExtResource("3_ke4nx")
+name = "knife"
+aniMobtypes = Array[ExtResource("1_00aks")]([ExtResource("2_gg885")])
+pic = ExtResource("3_aymqu")
+learnMoves = Array[ExtResource("2_5ry4j")]([ExtResource("4_lj0dm")])
+hp = 10
+atk = 1
+def = 1
+pm = 3
+moves = Array[ExtResource("2_5ry4j")]([])
+evasion = 1
+accuracy = 100
+crit = 1
+tackle = 0
+escape = 0
+size = 1
+scale = 1

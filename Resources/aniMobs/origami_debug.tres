@@ -1,0 +1,27 @@
+[gd_resource type="Resource" script_class="Animob" load_steps=7 format=3 uid="uid://kx3eerkc0nq0"]
+
+[ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_rp2qm"]
+[ext_resource type="Resource" uid="uid://bvml7wh64c4o1" path="res://Resources/elements/paper_debug.tres" id="2_1bf3b"]
+[ext_resource type="Script" path="res://Scripts/move_res.gd" id="2_60xs5"]
+[ext_resource type="Texture2D" uid="uid://durk3tv0qtk0v" path="res://Assets/origami_debug.jpg" id="3_f2g6e"]
+[ext_resource type="Script" path="res://Scripts/animob_res.gd" id="3_rpu2l"]
+[ext_resource type="Resource" uid="uid://cpdfthjoo3ekp" path="res://Resources/moves/paper_att_debug.tres" id="4_2h25i"]
+
+[resource]
+script = ExtResource("3_rpu2l")
+name = "Origami"
+aniMobtypes = Array[ExtResource("1_rp2qm")]([ExtResource("2_1bf3b")])
+pic = ExtResource("3_f2g6e")
+learnMoves = Array[ExtResource("2_60xs5")]([ExtResource("4_2h25i")])
+hp = 10
+atk = 1
+def = 1
+pm = 3
+moves = Array[ExtResource("2_60xs5")]([])
+evasion = 1
+accuracy = 100
+crit = 1
+tackle = 0
+escape = 0
+size = 1
+scale = 1
