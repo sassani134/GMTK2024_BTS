@@ -6,4 +6,4 @@
 - https://gamedevacademy.org/itemlist-in-godot-complete-guide/
 - https://docs.godotengine.org/fr/4.x/classes/class_itemlist.html
 - https://docs.godotengine.org/fr/4.x/classes/class_tabbar.html
-- 
+- https://forum.godotengine.org/t/problem-with-recursion-in-combinable-resources/35678
