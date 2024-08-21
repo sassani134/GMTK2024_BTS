@@ -2,7 +2,7 @@ class_name move extends Resource
 
 @export_category("id")
 @export var name: String
-@export var pic: Texture
+# Recursion detected, unable to assign resource to property.
 @export var moveElement: element
 
 
