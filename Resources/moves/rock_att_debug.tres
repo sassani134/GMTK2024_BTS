@@ -1,10 +1,12 @@
-[gd_resource type="Resource" script_class="move" load_steps=2 format=3 uid="uid://b300ohxtha05w"]
+[gd_resource type="Resource" script_class="move" load_steps=3 format=3 uid="uid://b300ohxtha05w"]
 
+[ext_resource type="Texture2D" uid="uid://745kgfkeo6hl" path="res://Assets/rock_debug.svg" id="1_np0i7"]
 [ext_resource type="Script" path="res://Scripts/move_res.gd" id="2_80eib"]
 
 [resource]
 script = ExtResource("2_80eib")
-name = ""
+name = "rock ATT"
+pic = ExtResource("1_np0i7")
 power = 1
 acc = 100
 pp = 10

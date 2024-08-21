@@ -1,12 +1,10 @@
-[gd_resource type="Resource" script_class="move" load_steps=3 format=3 uid="uid://c233d43j8bsti"]
+[gd_resource type="Resource" script_class="move" load_steps=2 format=3 uid="uid://c233d43j8bsti"]
 
-[ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_jch26"]
 [ext_resource type="Script" path="res://Scripts/move_res.gd" id="2_68w65"]
 
 [resource]
 script = ExtResource("2_68w65")
-name = ""
-moveType = Array[ExtResource("1_jch26")]([])
+name = "scissors ATT"
 power = 1
 acc = 100
 pp = 10
