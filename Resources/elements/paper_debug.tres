@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="element" load_steps=5 format=3 uid="uid://bvml7wh64c4o1"]
+
+[ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_1w8ag"]
+[ext_resource type="Texture2D" uid="uid://cadfdtx3fcxt" path="res://Assets/paper_debug.png" id="2_0brfx"]
+[ext_resource type="Resource" uid="uid://1jpobcp4dwjn" path="res://Resources/elements/scissors_debug.tres" id="3_l3kq6"]
+[ext_resource type="Resource" uid="uid://wkd02m4xvly1" path="res://Resources/elements/rock_debug.tres" id="3_ylnb2"]
+
+[resource]
+script = ExtResource("1_1w8ag")
+name = "paper"
+pic = ExtResource("2_0brfx")
+weakAgainst = Array[ExtResource("1_1w8ag")]([ExtResource("3_l3kq6")])
+strongAgainst = Array[ExtResource("1_1w8ag")]([ExtResource("3_ylnb2")])
+noEffect = Array[ExtResource("1_1w8ag")]([])
+ressistTo = Array[ExtResource("1_1w8ag")]([ExtResource("3_ylnb2")])
+weakTo = Array[ExtResource("1_1w8ag")]([ExtResource("3_l3kq6")])
+immuneTo = Array[ExtResource("1_1w8ag")]([])
