@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="Character" load_steps=2 format=3 uid="uid://ba4dp8guud8fd"]
+
+[ext_resource type="Script" path="res://Scripts/character_res.gd" id="1_yb26h"]
+
+[resource]
+script = ExtResource("1_yb26h")
+name = "carA"
+hp = 0
+def = 0
+pa = 2
+pm = 3
+voice = 0
+speed = 0
+size = 1
