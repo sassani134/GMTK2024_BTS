@@ -2,9 +2,7 @@ class_name move extends Resource
 
 @export_category("id")
 @export var name: String
-# Recursion detected, unable to assign resource to property.
-@export var moveElement: element
-
+@export_enum("rock", "paper", "scissors") var moveElement: String
 
 @export_category("stats")
 @export var power: int = 1
