@@ -18,7 +18,7 @@ script = ExtResource("1_1owxw")
 layout_mode = 1
 offset_right = 398.0
 offset_bottom = 285.0
-item_count = 12
+item_count = 15
 item_0/text = "res://Resources/characters//maelle.tres"
 item_1/text = "res://Resources/characters//sigmund.tres"
 item_2/text = "res://Resources/characters//louis.tres"
@@ -31,6 +31,9 @@ item_8/text = "res://Resources/characters//maelle.tres"
 item_9/text = "res://Resources/characters//sigmund.tres"
 item_10/text = "res://Resources/characters//louis.tres"
 item_11/text = "res://Resources/characters//victoire.tres"
+item_12/text = "res://Resources/characters//00char.md"
+item_13/text = "res://Resources/characters//char_a_debug.tres"
+item_14/text = "res://Resources/characters//char_b_debug.tres"
 script = ExtResource("1_q1l3r")
 
 [node name="Panel" type="Panel" parent="ItemListCharacter"]
@@ -47,7 +50,7 @@ offset_top = 286.0
 offset_right = 398.0
 offset_bottom = -37.0
 grow_vertical = 2
-item_count = 34
+item_count = 38
 item_0/text = "res://Resources/aniMobs//blowWolf.tres"
 item_1/text = "res://Resources/aniMobs//ddPig.tres"
 item_2/text = "res://Resources/aniMobs//squreuil.tres"
@@ -82,6 +85,10 @@ item_30/text = "res://Resources/aniMobs//fractalSeaStar.tres"
 item_31/text = "res://Resources/aniMobs//pollen_rat.tres"
 item_32/text = "res://Resources/aniMobs//dokomo.tres"
 item_33/text = "res://Resources/aniMobs//xutXut.tres"
+item_34/text = "res://Resources/aniMobs//00animobs.md"
+item_35/text = "res://Resources/aniMobs//knife_debug.tres"
+item_36/text = "res://Resources/aniMobs//origami_debug.tres"
+item_37/text = "res://Resources/aniMobs//sculture_debug.tres"
 script = ExtResource("1_xd08l")
 
 [node name="TabContainer" type="TabBar" parent="ItemListAnimob"]
