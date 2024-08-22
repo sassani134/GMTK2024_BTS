@@ -1,0 +1,6 @@
+--- In move_res.gd -------------------------------------------------
+# Recursion detected, unable to assign resource to property.
+# @export var moveElement: element
+###
+# no change is done in the inspector not working
+# @export var moveElement: Array[element]
