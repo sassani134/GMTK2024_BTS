@@ -4,8 +4,8 @@
 
 [resource]
 script = ExtResource("2_68w65")
-name = "scissors ATT"
-moveElement = "scissors"
+name = ""
+moveElement = ""
 power = 1
 acc = 100
 pp = 10

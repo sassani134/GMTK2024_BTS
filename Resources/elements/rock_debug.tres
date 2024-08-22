@@ -1,17 +1,15 @@
-[gd_resource type="Resource" script_class="element" load_steps=5 format=3 uid="uid://wkd02m4xvly1"]
+[gd_resource type="Resource" script_class="element" load_steps=3 format=3 uid="uid://wkd02m4xvly1"]
 
 [ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_6al6t"]
 [ext_resource type="Texture2D" uid="uid://x5bh8t5rq8hp" path="res://Assets/rock_debug.png" id="2_bl881"]
-[ext_resource type="Resource" uid="uid://1jpobcp4dwjn" path="res://Resources/elements/scissors_debug.tres" id="3_jwesx"]
-[ext_resource type="Resource" uid="uid://bvml7wh64c4o1" path="res://Resources/elements/paper_debug.tres" id="4_sehxc"]
 
 [resource]
 script = ExtResource("1_6al6t")
 name = "rock"
 pic = ExtResource("2_bl881")
-weakAgainst = Array[ExtResource("1_6al6t")]([ExtResource("4_sehxc")])
-strongAgainst = Array[ExtResource("1_6al6t")]([ExtResource("3_jwesx")])
+weakAgainst = Array[ExtResource("1_6al6t")]([])
+strongAgainst = Array[ExtResource("1_6al6t")]([])
 noEffect = Array[ExtResource("1_6al6t")]([])
-weakTo = Array[ExtResource("1_6al6t")]([ExtResource("4_sehxc")])
-ressistTo = Array[ExtResource("1_6al6t")]([ExtResource("3_jwesx")])
+weakTo = Array[ExtResource("1_6al6t")]([])
+ressistTo = Array[ExtResource("1_6al6t")]([])
 immuneTo = Array[ExtResource("1_6al6t")]([])

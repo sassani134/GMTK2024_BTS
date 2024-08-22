@@ -1,10 +1,10 @@
 [gd_resource type="Resource" script_class="Character" load_steps=2 format=3 uid="uid://cx8ueafkkmoiv"]
 
-[ext_resource type="Script" path="res://Scripts/character_res.gd" id="1_hoo4q"]
+[ext_resource type="Script" path="res://Scripts/character_res.gd" id="1_dwtp0"]
 
 [resource]
-script = ExtResource("1_hoo4q")
-name = "CardiB"
+script = ExtResource("1_dwtp0")
+name = ""
 hp = 0
 def = 0
 pa = 2

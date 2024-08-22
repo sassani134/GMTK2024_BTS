@@ -4,8 +4,8 @@
 
 [resource]
 script = ExtResource("2_di0kx")
-name = "Paper ATT"
-moveElement = "paper"
+name = ""
+moveElement = ""
 power = 1
 acc = 100
 pp = 10

@@ -1,23 +1,21 @@
-[gd_resource type="Resource" script_class="Animob" load_steps=7 format=3 uid="uid://cikb8id2cbeac"]
+[gd_resource type="Resource" script_class="Animob" load_steps=5 format=3 uid="uid://cikb8id2cbeac"]
 
 [ext_resource type="Script" path="res://Scripts/element_res.gd" id="1_kok0o"]
-[ext_resource type="Script" path="res://Scripts/move_res.gd" id="2_fws2d"]
-[ext_resource type="Resource" uid="uid://wkd02m4xvly1" path="res://Resources/elements/rock_debug.tres" id="2_m7r1j"]
+[ext_resource type="Script" path="res://Scripts/move_res.gd" id="2_0gdf4"]
 [ext_resource type="Script" path="res://Scripts/animob_res.gd" id="3_huco8"]
-[ext_resource type="Texture2D" uid="uid://mvo7p165ojm1" path="res://Assets/sculture_debug.jpg" id="3_kdb5o"]
-[ext_resource type="Resource" uid="uid://b300ohxtha05w" path="res://Resources/moves/rock_att_debug.tres" id="4_da3k4"]
+[ext_resource type="Texture2D" uid="uid://mvo7p165ojm1" path="res://Assets/sculture_debug.jpg" id="3_urbky"]
 
 [resource]
 script = ExtResource("3_huco8")
-name = "Sculture"
-aniMobtypes = Array[ExtResource("1_kok0o")]([ExtResource("2_m7r1j")])
-pic = ExtResource("3_kdb5o")
-learnMoves = Array[ExtResource("2_fws2d")]([ExtResource("4_da3k4")])
+name = "sculture"
+aniMobElements = Array[ExtResource("1_kok0o")]([])
+pic = ExtResource("3_urbky")
+learnMoves = Array[ExtResource("2_0gdf4")]([])
 hp = 10
 atk = 1
 def = 1
 pm = 3
-moves = Array[ExtResource("2_fws2d")]([])
+moves = Array[ExtResource("2_0gdf4")]([])
 evasion = 1
 accuracy = 100
 crit = 1
