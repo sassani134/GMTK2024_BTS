@@ -7,3 +7,4 @@
 - https://docs.godotengine.org/fr/4.x/classes/class_itemlist.html
 - https://docs.godotengine.org/fr/4.x/classes/class_tabbar.html
 - https://forum.godotengine.org/t/problem-with-recursion-in-combinable-resources/35678
+- https://www.gotut.net/save-and-load-system-for-godot-4/
