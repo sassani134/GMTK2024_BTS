@@ -11,3 +11,6 @@ pouleMouille
 pupSnail
 squreuil
 xutXut
+k9-mille
+nekoko
+kaiser pingo
