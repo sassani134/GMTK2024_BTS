@@ -6,3 +6,5 @@
 - https://9gag.com/gag/a9qxWp1
 - https://9gag.com/gag/a2KXWxw
 - https://9gag.com/gag/aMEErEA
+- https://fr.wikipedia.org/wiki/Oiseaux_inaptes_au_vol
+- https://fr.wikipedia.org/wiki/M%C3%A2t_tot%C3%A9mique
