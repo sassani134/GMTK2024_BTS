@@ -39,3 +39,17 @@ takoyahub
 wrathbit
 
 grifon
+
+zombie mantis
+
+Dragon mantis
+
+jardinain
+
+marsupilennemi
+
+jumbogoroo
+
+coyotte spirite guide
+
+Droiimaiidae Droimaiidae + Droid
