@@ -55,3 +55,11 @@ coyotte spirite guide
 Droiimaiidae Droimaiidae + Droid
 
 Lamasticot
+
+meduse cube
+
+mouton ecume
+
+meduse mongolfiere
+
+balaie bros (fantasia)
