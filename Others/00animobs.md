@@ -53,3 +53,5 @@ jumbogoroo
 coyotte spirite guide
 
 Droiimaiidae Droimaiidae + Droid
+
+Lamasticot
