@@ -63,3 +63,13 @@ mouton ecume
 meduse mongolfiere
 
 balaie bros (fantasia)
+
+honney boxer
+
+peppino
+
+mushroom turtle
+
+glass toad
+
+garbage oyster
