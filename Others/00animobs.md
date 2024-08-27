@@ -73,3 +73,9 @@ mushroom turtle
 glass toad
 
 garbage oyster
+
+charcoal manchot
+
+picBlanc
+
+neigeMan
