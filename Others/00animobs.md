@@ -79,3 +79,10 @@ charcoal manchot
 picBlanc
 
 neigeMan
+
+cologne putois
+
+blueLobster
+
+knif o (couteau)
+
