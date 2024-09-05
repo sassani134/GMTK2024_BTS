@@ -9,11 +9,11 @@ Ghost, Dark, Steel, Fairy
 
 
 @export_category("Offensive Effectiveness")
-@export var weakAgainst: Array[String]
-@export var strongAgainst: Array[String]
-@export var noEffect: Array[element]
+@export var weakAgainst: Array[allElemnts]
+@export var strongAgainst: Array[allElemnts]
+@export var noEffect: Array[allElemnts]
 
 @export_category("Defensive Effectiveness")
-@export var weakTo: Array[element]
-@export var ressistTo: Array[element]
-@export var immuneTo: Array[element]
+@export var weakTo: Array[allElemnts]
+@export var ressistTo: Array[allElemnts]
+@export var immuneTo: Array[allElemnts]
