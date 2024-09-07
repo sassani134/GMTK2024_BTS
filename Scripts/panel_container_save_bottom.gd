@@ -13,3 +13,10 @@ func _process(delta: float) -> void:
 
 func _on_button_save_pressed() -> void:
 	pass # Replace with function body.
+
+func _on_button_return_pressed() -> void:
+	SceneSwitcher.switch_scene("res://Scenes/start_scene.tscn")
+
+
+func _on_button_load_pressed() -> void:
+	pass # Replace with function body.
