@@ -9,7 +9,8 @@ Ghost, Dark, Steel, Fairy
 
 
 @export_category("Offensive Effectiveness")
-@export var weakAgainst: Array[allElemnts]
+# @export var weakAgainst: Array[allElemnts]
+@export_flags(allElemnts) var weakAgainst
 @export var strongAgainst: Array[allElemnts]
 @export var noEffect: Array[allElemnts]
 

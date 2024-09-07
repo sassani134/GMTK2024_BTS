@@ -5,9 +5,9 @@
 [resource]
 script = ExtResource("1_hqsiv")
 name = 0
-weakAgainst = Array[int]([])
-strongAgainst = Array[int]([])
-noEffect = Array[int]([])
-weakTo = Array[int]([])
-ressistTo = Array[int]([])
-immuneTo = Array[int]([])
+weakAgainst = null
+strongAgainst = null
+noEffect = null
+weakTo = 0
+ressistTo = null
+immuneTo = null
