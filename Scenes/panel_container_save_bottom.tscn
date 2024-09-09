@@ -34,5 +34,6 @@ layout_mode = 2
 size_flags_horizontal = 3
 text = "Return"
 
+[connection signal="pressed" from="HBoxContainer/ButtonSave" to="." method="_on_button_save_pressed"]
 [connection signal="pressed" from="HBoxContainer/ButtonLoad" to="." method="_on_button_load_pressed"]
 [connection signal="pressed" from="HBoxContainer/ButtonReturn" to="." method="_on_button_return_pressed"]

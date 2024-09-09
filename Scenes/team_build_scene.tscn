@@ -65,3 +65,5 @@ offset_bottom = -5.0
 
 [connection signal="item_selected" from="ItemListCharacter" to="." method="_on_item_list_character_item_selected"]
 [connection signal="item_selected" from="ItemListAnimob" to="." method="_on_item_list_animob_item_selected"]
+[connection signal="load_file" from="PanelContainerSaveBottom" to="." method="_on_panel_container_save_bottom_load_file"]
+[connection signal="save_file" from="PanelContainerSaveBottom" to="." method="_on_panel_container_save_bottom_save_file"]
