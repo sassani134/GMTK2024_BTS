@@ -85,3 +85,9 @@ cologne putois
 blueLobster
 
 knif o (couteau)
+
+Bousier des neiges
+
+bison cerfvolant
+
+Drângon 
