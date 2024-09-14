@@ -21,9 +21,9 @@ offset_top = 2.0
 offset_right = 402.0
 offset_bottom = 321.0
 item_count = 3
-item_0/text = "Red"
-item_1/text = "Blue"
-item_2/text = "Green"
+item_0/text = "Louis"
+item_1/text = "maelle"
+item_2/text = "sigmund"
 script = ExtResource("1_q1l3r")
 
 [node name="Panel" type="Panel" parent="ItemListCharacter"]
@@ -75,8 +75,18 @@ offset_bottom = 601.0
 text = "TeamBuild name file
 Personnage
 	V Animobs
-		
-		"
+		V dendeleo
+			V Attack
+				atk00
+				atk01
+				atk02
+				atk03
+			V Stats
+				Pv 10
+				Att 01
+				Def 01
+		> dokomo
+		> akQuarantesnake"
 
 [node name="PanelContainerSaveBottom" parent="." instance=ExtResource("3_it8js")]
 layout_mode = 1
