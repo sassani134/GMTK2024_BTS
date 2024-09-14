@@ -16,24 +16,35 @@ script = ExtResource("1_1owxw")
 
 [node name="ItemListCharacter" type="ItemList" parent="."]
 layout_mode = 1
-offset_right = 398.0
-offset_bottom = 285.0
+offset_left = 4.0
+offset_top = 2.0
+offset_right = 402.0
+offset_bottom = 321.0
+item_count = 3
+item_0/text = "Red"
+item_1/text = "Blue"
+item_2/text = "Green"
 script = ExtResource("1_q1l3r")
 
 [node name="Panel" type="Panel" parent="ItemListCharacter"]
 layout_mode = 0
 offset_left = 399.0
 offset_right = 863.0
-offset_bottom = 283.0
+offset_bottom = 316.0
 
 [node name="ItemListAnimob" type="ItemList" parent="."]
 layout_mode = 1
 anchors_preset = 9
 anchor_bottom = 1.0
-offset_top = 286.0
+offset_top = 325.0
 offset_right = 398.0
 offset_bottom = -37.0
 grow_vertical = 2
+item_count = 4
+item_0/text = "dendeLeo"
+item_1/text = "dokomo"
+item_2/text = "pouleMouille"
+item_3/text = "akQuarantesnake"
 script = ExtResource("1_xd08l")
 
 [node name="TabContainer" type="TabBar" parent="ItemListAnimob"]
@@ -41,20 +52,31 @@ layout_mode = 0
 offset_left = 401.0
 offset_top = -1.0
 offset_right = 864.0
-offset_bottom = 320.0
+offset_bottom = 237.0
 
 [node name="Panel" type="Panel" parent="ItemListAnimob/TabContainer"]
 layout_mode = 2
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_top = 31.0
+offset_top = 4.0
+offset_bottom = 44.0
 
-[node name="ItemListFinal" type="ItemList" parent="."]
+[node name="ItemListFinal" type="Panel" parent="."]
 layout_mode = 0
 offset_left = 866.0
-offset_top = 3.0
+offset_top = 2.0
 offset_right = 1153.0
 offset_bottom = 606.0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="ItemListFinal"]
+layout_mode = 0
+offset_right = 285.0
+offset_bottom = 601.0
+text = "TeamBuild name file
+Personnage
+	V Animobs
+		
+		"
 
 [node name="PanelContainerSaveBottom" parent="." instance=ExtResource("3_it8js")]
 layout_mode = 1
