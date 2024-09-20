@@ -108,3 +108,17 @@ mochi lapin
 bouncing seal
 
 clippy
+
+hedgetus
+
+VRVache
+
+KiWii
+
+Charming frog
+
+Wiki totem
+
+gemme alun
+
+Vera Vera Aloe
