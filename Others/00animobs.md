@@ -129,6 +129,12 @@ Cricket engine
 
 T pause tamadua
 
-triops
+triopsun triops + Sun
 
 lava iguana
+
+riped fruit bird
+
+cender vacum
+
+grave Graves
