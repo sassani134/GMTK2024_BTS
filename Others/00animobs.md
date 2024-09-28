@@ -144,3 +144,27 @@ cat  erpillar
 dimension taupe
 
 Long arm monkey
+
+kohdoll
+
+Burning Tournesol
+
+animatronics
+
+musareigne
+
+taureau d'airin
+
+vache a jet
+
+sharknad'eau
+
+coin boboxe
+
+gungarao arc en ciel
+
+seich dimensionel
+
+paresseux spongique
+
+esponge 
