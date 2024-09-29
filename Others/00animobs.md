@@ -168,3 +168,11 @@ seich dimensionel
 paresseux spongique
 
 esponge 
+
+crapaud'uile
+
+macquaque hot spring
+
+hiboui
+
+piniata
