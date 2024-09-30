@@ -180,3 +180,7 @@ macquaque hot spring
 hiboui
 
 piniata
+
+lezard bleu blanc
+
+fishgaro
