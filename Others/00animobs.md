@@ -169,6 +169,10 @@ paresseux spongique
 
 esponge 
 
+big sting bee
+
+die nosaur
+
 crapaud'uile
 
 macquaque hot spring
