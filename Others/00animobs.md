@@ -189,11 +189,11 @@ dalle-lephant
 
 fayfée
 
-(calimero)
+casquœuf(calimero)
 
 lampe huile
 
-génie
+(génie)
 
 w silouette
 
@@ -204,5 +204,3 @@ defrag tiger
 shadow strip zebra
 
 Cocinel car
-
-(calimero)
