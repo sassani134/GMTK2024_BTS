@@ -184,3 +184,25 @@ piniata
 lezard bleu blanc
 
 fishgaro
+
+dalle-lephant
+
+fayfée
+
+(calimero)
+
+lampe huile
+
+génie
+
+w silouette
+
+kaiser fisher
+
+defrag tiger
+
+shadow strip zebra
+
+Cocinel car
+
+(calimero)
