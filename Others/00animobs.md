@@ -216,3 +216,41 @@ Baobabos
 (Antilope capricorne)
 
 ame terre
+
+ortille in skelets
+
+spooky trumpette
+
+limaille pheno
+
+Drake pheno
+
+thunder pheno
+
+Spark pheno
+
+swarm pheno
+
+root pheno
+
+PK pheno
+
+fertilisant pheno
+
+tene pheno
+
+battle pheno
+
+Water pheno
+
+Fairy pheno
+
+Ice pheno
+
+Poison pheno
+
+Rock pheno
+
+ghost pheno
+
+maelstorm pheno
