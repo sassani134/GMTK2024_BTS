@@ -13,25 +13,25 @@ fractalSeaStar
 
 kobraRoyal
 
-lavaPlum
+lavaPlum flamant rose/rouge des lave
 
-pollenRat
+pollenRat quenouille au sol
 
-pouleMouille
+pouleMouille 
 
-pupSnail
+pupSnail chien escargo
 
-squreuil
+squreuil ecureuille
 
-xutXut
+xutXut tux
 
 k9-mille [ka] [nine] [mille]
 
-nekoko
+nekoko chat noix de koko
 
 kaiser pingu
 
-suga-to [chu] [ga] [to]
+suga-to [chu] [ga] [to] 
 
 levriéroglyphe
 
@@ -49,7 +49,7 @@ jardinain
 
 marsupilennemi
 
-jumbogoroo
+jumbogoroo gros kangorou
 
 coyotte spirite guide
 
@@ -65,25 +65,23 @@ meduse mongolfiere
 
 balaie bros (fantasia)
 
-honney boxer
+honney boxer (honney badger)
 
-peppino
+peppino ??
 
 mushroom turtle
 
-glass toad
+glass toad grenouille transparente qui hiberne dans la glace
 
 garbage oyster
 
 charcoal manchot
 
-picBlanc
+picBlanc picVert des neige
 
-neigeMan
+neigeMan bohnome de neige
 
 cologne putois
-
-blueLobster
 
 knif o (couteau)
 
@@ -127,7 +125,7 @@ leviaworm
 
 Cricket engine
 
-T pause tamadua
+T pause tamadua tamanoire
 
 triopsun triops + Sun
 
@@ -155,7 +153,7 @@ musareigne
 
 taureau d'airin
 
-vache a jet
+vache a jet  mario sunchine F.L.U.D.D.
 
 sharknad'eau
 
@@ -179,25 +177,25 @@ macquaque hot spring
 
 hiboui
 
-piniata
+sambaniata piniata
 
-lezard bleu blanc
+lezard bleu blanc freezer
 
-fishgaro
+fishgaro poison chanteur
 
-dalle-lephant
+dalle-lephant uncanny dall-e dalle peinture
 
 fayfée
 
-casquœuf(calimero)
+casquœuf (calimero)
 
 lampe huile
 
 (génie)
 
-w silouette
+w silouette femme blanche
 
-kaiser fisher
+kaiser fisher oiseau chasseur de poisson
 
 defrag tiger
 
@@ -211,11 +209,11 @@ battle Cox
 
 Baleine four
 
-Baobabos
+Baobabos baobab
 
 (Antilope capricorne)
 
-ame terre
+ame terre hamstere
 
 ortille in skelets
 
@@ -237,7 +235,7 @@ PK pheno
 
 fertilisant pheno
 
-tene pheno
+tene pheno shade
 
 battle pheno
 
@@ -254,3 +252,7 @@ Rock pheno
 ghost pheno
 
 maelstorm pheno
+
+normal pheno pelotte de laine
+
+Blue eyes Black dragon
