@@ -278,3 +278,11 @@ pumpkins head
 serpent de flamel psy
 
 drak houroboros
+
+eggplant
+
+hameka
+
+(cheval de troie porygon)
+
+prince rupert tardigrade
