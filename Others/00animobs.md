@@ -1,221 +1,221 @@
 # animobs
-akQuarantesnake
+akQuarantesnake [acier poison]
 
-blowWolf
+blowWolf [vol]
 
-ddPig
+ddPig [normal]
 
-dendeLeo
+dendeLeo [plante]
 
-dokomo
+dokomo [feu]
 
-fractalSeaStar
+fractalSeaStar [eau]
 
-kobraRoyal
+kobraRoyal [poison]
 
-lavaPlum flamant rose/rouge des lave
+lavaPlum flamant rose/rouge des lave [feu]
 
-pollenRat quenouille au sol
+pollenRat quenouille au sol [plante]
 
-pouleMouille 
+pouleMouille [eau]
 
-pupSnail chien escargo
+pupSnail chien escargo [normal eau]
 
-squreuil ecureuille
+squreuil ecureuille [normal]
 
-xutXut tux
+xutXut tux [psy]
 
-k9-mille [ka] [nine] [mille]
+k9-mille {ka nine mille} [tenebre]
 
-nekoko chat noix de koko
+nekoko chat noix de koko [plante]
 
-kaiser pingu
+kaiser pingu [glace]
 
-suga-to [chu] [ga] [to] 
+suga-to {chu ga to} [fee] 
 
-levriéroglyphe
+levriéroglyphe [tenebre spectre]
 
-takoyahub
+takoyahub [eau combat]
 
-wrathbit
+wrathbit [combat]
 
-grifon
+grifon [fee vol]
 
-zombie mantis
+zombie mantis [spectre insecte]
 
-Dragon mantis
+Dragon mantis [dragon insecte]
 
-jardinain
+jardinain [roche]
 
-marsupilennemi
+marsupilennemi [normal combat]
 
-jumbogoroo gros kangorou
+jumbogoroo gros kangorou [normal]
 
-coyotte spirite guide
+coyotte spirite guide [spectre fee]
 
-Droiimaiidae Droimaiidae + Droid
+Droiimaiidae Droimaiidae + Droid [acier vol]
 
-Lamasticot
+Lamasticot [normal]
 
-meduse cube
+meduse cube [Eau poisson]
 
-mouton ecume
+mouton ecume [eau]
 
-meduse mongolfiere
+meduse mongolfiere [eau vol]
 
-balaie bros (fantasia)
+balaie bros (fantasia) [fee psy]
 
-honney boxer (honney badger)
+honney boxer (honney badger) [combat]
 
 peppino ??
 
-mushroom turtle
+mushroom turtle [palnte]
 
-glass toad grenouille transparente qui hiberne dans la glace
+glass toad grenouille transparente qui hiberne dans la glace [glace]
 
-garbage oyster
+garbage oyster [poison acier]
 
-charcoal manchot
+charcoal manchot [feu eau]
 
-picBlanc picVert des neige
+picBlanc picVert des neige [glace vol]
 
-neigeMan bohnome de neige
+neigeMan bohnome de neige [glace psy]
 
-cologne putois
+cologne putois [fee poison]
 
-knif o (couteau)
+knif o (couteau) [eau acier]
 
-Bousier des neiges
+Bousier des neiges [glace acier]
 
-bison cerfvolant
+bison cerfvolant [normal]
 
-Drângon 
+Drângon  [normal dragon]
 
-triceramisu
+triceramisu [fee]
 
-mille poings
+mille poings [insecte combat]
 
-chatMomie
+chatMomie [spectre]
 
-f1Ant
+f1Ant [insecte]
 
-Happy haricot sauteur
+Happy haricot sauteur [plante]
 
-mochi lapin
+mochi lapin [fee psy]
 
-bouncing seal
+bouncing seal [eau glace]
 
-clippy
+clippy [acier]
 
-hedgetus
+hedgetus [normal plante]
 
-VRVache
+VRVache [psy normal]
 
-KiWii
+KiWii [plante vol]
 
-Charming frog
+Charming frog [fee psy]
 
-Wiki totem
+Wiki totem [plante fee]
 
-gemme alun
+gemme alun [fee roche]
 
-Vera Vera Aloe
+Vera Vera Aloe [palnte]
 
-leviaworm
+leviaworm [sol]
 
-Cricket engine
+Cricket engine [insect acier]
 
-T pause tamadua tamanoire
+T pause tamadua tamanoire [normal tenebre]
 
-triopsun triops + Sun
+triopsun triops + Sun [insecte eau]
 
-lava iguana
+lava iguana [feu dragon]
 
-riped fruit bird
+riped fruit bird [plante vol]
 
-cender vacum
+cender vacum 
 
-grave Graves
+grave Graves [sol spectre]
 
-cat  erpillar
+cat  erpillar [combat]
 
-dimension taupe
+dimension taupe [psy sol]
 
-Long arm monkey
+Long arm monkey [combat]
 
-kohdoll
+kohdoll 
 
-Burning Tournesol
+Burning Tournesol [feu plante]
 
-animatronics
+animatronics [spectre acier]
 
 musareigne
 
-taureau d'airin
+taureau d'airin [acier feu]
 
-vache a jet  mario sunchine F.L.U.D.D.
+vache a jet  mario sunchine F.L.U.D.D. 
 
-sharknad'eau
+sharknad'eau [eau vol]
 
 coin boboxe
 
-gungarao arc en ciel
+gungarao arc en ciel [fee combat]
 
-seich dimensionel
+seich dimensionel [psy tenebre]
 
-paresseux spongique
+paresseux spongique [normal plante]
 
-esponge 
+esponge [eau]
 
-big sting bee
+big sting bee [insecte]
 
-die nosaur
+die nosaur [spectre dragon]
 
-crapaud'uile
+crapaud'uile [feu fee]
 
-macquaque hot spring
+macquaque hot spring [glace feu]
 
-hiboui
+hiboui [fee vol]
 
-sambaniata piniata
+sambaniata piniata [normal fee]
 
-lezard bleu blanc freezer
+lezard bleu blanc freezer [dragon psy]
 
-fishgaro poison chanteur
+fishgaro poison chanteur [eau fee]
 
-dalle-lephant uncanny dall-e dalle peinture
+dalle-lephant uncanny dall-e dalle peinture [fee]
 
-fayfée
+fayfée [fee]
 
-casquœuf (calimero)
+casquœuf (calimero) [normal]
 
-lampe huile
+lampe huile [acier tenebre]
 
-(génie)
+(génie) [fee spectre]
 
-w silouette femme blanche
+w silouette femme blanche [psy]
 
-kaiser fisher oiseau chasseur de poisson
+kaiser fisher oiseau chasseur de poisson [Eau vol]
 
-defrag tiger
+defrag tiger  [combat tenebre]
 
-shadow strip zebra
+shadow strip zebra [combat spectre]
 
-Cocinel car
+Cocinel car [insecte electrique]
 
-thon elephant
+thon elephant [eau combat]
 
-battle Cox
+battle Cox [combat psy]
 
-Baleine four
+Baleine four [eau feu]
 
-Baobabos baobab
+Baobabos baobab [plante combat]
 
 (Antilope capricorne)
 
-ame terre hamstere
+ame terre hamstere [psy normal]
 
-ortille in skelets
+ortille in skelets [plante spectre]
 
 spooky trumpette
 
@@ -255,34 +255,40 @@ maelstorm pheno
 
 normal pheno pelotte de laine
 
-Blue eyes Black dragon
+Blue eyes Black dragon [dragon electrique]
 
-Moth seeker of dark
+Moth seeker of dark [insecte tenebre]
 
-Saint bernard
+Saint bernard [normal glace]
 
-(limace katsuya soin psy fée)
+(limace katsuya soin [psy fée])
 
 red flagg
 
-living micro plastic
+living micro plastic [normal eau]
 
-lava lamp
+lava lamp [psy]
 
-streamitubies
+streamitubies [fee psy]
 
-inkBears (Bisounours)
+inkBears (Bisounours) [normal fee]
 
-pumpkins head
+pumpkins head [spectre plante]
 
 serpent de flamel psy
 
 drak houroboros
 
-eggplant
+eggplant [plante]
 
 hameka
 
-(cheval de troie porygon)
+(cheval de troie porygon) [normal]
 
-prince rupert tardigrade
+prince rupert tardigrade []
+
+golden retiver sand
+
+silver retriver snow
+
+bronze retriever acier
