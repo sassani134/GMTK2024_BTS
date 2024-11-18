@@ -217,44 +217,6 @@ ame terre hamstere [psy normal]
 
 ortille in skelets [plante spectre]
 
-spooky trumpette
-
-limaille pheno
-
-Drake pheno
-
-thunder pheno
-
-Spark pheno
-
-swarm pheno
-
-root pheno
-
-PK pheno
-
-fertilisant pheno
-
-tene pheno shade
-
-battle pheno
-
-Water pheno
-
-Fairy pheno
-
-Ice pheno
-
-Poison pheno
-
-Rock pheno
-
-ghost pheno
-
-maelstorm pheno
-
-normal pheno pelotte de laine
-
 Blue eyes Black dragon [dragon electrique]
 
 Moth seeker of dark [insecte tenebre]
@@ -292,3 +254,5 @@ golden retiver sand
 silver retriver snow
 
 bronze retriever acier
+
+D-Koi
